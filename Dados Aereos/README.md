@@ -3,4 +3,5 @@
 
 # Painel
 
-![image](https://github.com/user-attachments/assets/ca891e92-a1ea-4066-9e3b-7fc3bcd342c2)
+![image](https://github.com/user-attachments/assets/e0a93a69-78e4-43b1-b417-e2c687e9c793)
+
