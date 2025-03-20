@@ -1,19 +1,6 @@
-# airflow-composer-lab01
+# Painel de acompanhamento Acidentes Aereos
  criado para estudos e testes
 
-#airbytes conf
- https://www.youtube.com/watch?v=bMEAcBiRjWA
+# Painel
 
-
-criar conexão com o postgre local
-
-
-seta o nome
-no host colocar host.docker.internal
-database
-user e senha
-
-
-referencia gravar minio
-
-https://www.youtube.com/watch?v=J6i2kb4TbXw&t=4279s
+![image](https://github.com/user-attachments/assets/ca891e92-a1ea-4066-9e3b-7fc3bcd342c2)
